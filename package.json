@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "start": "node index.js",
-  "lint": "eslint . --ext .js || true",
-  "test": "jest",
-  "coverage": "jest --coverage"
+    "start": "node index.js",
+    "lint": "eslint . --ext .js || true",
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/josselynturcios13-jjt/Examen2_SO#readme",
   "devDependencies": {
     "eslint": "^10.1.0",
-    "jest": "^30.3.0"
+    "jest": "^29.7.0"
   }
 }
