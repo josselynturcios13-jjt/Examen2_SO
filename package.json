@@ -1,0 +1,28 @@
+{
+  "name": "examen2_so",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js",
+  "lint": "eslint . --ext .js || true",
+  "test": "jest",
+  "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://josselynturcios13-jjt@github.com/josselynturcios13-jjt/Examen2_SO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/josselynturcios13-jjt/Examen2_SO/issues"
+  },
+  "homepage": "https://github.com/josselynturcios13-jjt/Examen2_SO#readme",
+  "devDependencies": {
+    "eslint": "^10.1.0",
+    "jest": "^30.3.0"
+  }
+}
